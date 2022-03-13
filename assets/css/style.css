@@ -43,10 +43,10 @@ footer {
     padding: 40px 35px;
 }
 footer h2 {
-    float: inline;
     color:#024e76;
     font-size: 30px;
     margin: 0;
+    display: inline-block;
 }
 footer div {
     float: right;
