@@ -2,9 +2,9 @@
 ## Purpose
 Awebsite that offers fitness training services.
 
-##Built With
-*HTML
-*CSS
+## Built With
+* HTML
+* CSS
 
 ## Website
 https://jaydencowley.github.io/run-buddy/
